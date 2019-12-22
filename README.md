@@ -1,4 +1,4 @@
-# web_sinau
+# ts-example
 
 ## Project setup
 ```
